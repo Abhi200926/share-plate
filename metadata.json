@@ -1,0 +1,6 @@
+{
+  "name": "SharePlate",
+  "description": "AI-powered surplus food rescue network connecting donors, recipients, and volunteers with smart matching, strict safety verification, and impact analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
